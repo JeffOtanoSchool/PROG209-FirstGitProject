@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1e7095f8-717f-4b63-9467-6242d89847d0/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/PROG209OtanoV2",
+    "appService.deploySubpath": ""
+}
